@@ -156,7 +156,7 @@ You only need to edit the following parameters
     Service Manager by default during the authentification flow.
 
 
-# 8) Use some of the Smartapps available (optional)
+# 8) Use some of the Zoned Heating/Cooling Smartapps available (optional)
 
 
 Amongst others:
@@ -169,7 +169,7 @@ Amongst others:
 /****************************************************
 
 
-The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats- coupled with smart vents (optional) for better temp settings control throughout your home". It can reproduce the eveness and eveness active Flair modes based on the thermostat's setpoints.
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats/sensors- - coupled with smart vents (optional) for better temp settings control throughout your home". It can reproduce the eveness and eveness active Flair modes based on the thermostat's setpoints.  The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside some scheduled zones.
 
 
 For more details:
@@ -182,11 +182,24 @@ http://thingsthataresmart.wiki/index.php?title=ScheduleTstatZones
 
 /****************************************************
 
-The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee schedule(s)- coupled with smart vents (optional) for better temp settings control throughout your home". It can reproduce the eveness and eveness active Flair modes based on the thermostat's climate settings.
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee thermostats and any ST connected sensors- coupled with smart vents (optional) for better temp settings control throughout your home". The smartapp can reproduce the Flair eveness and eveness active Flair setpoint modes based on the thermostat's climate settings.  The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside some scheduled zones.
 
 
 For more details:
 
 http://thingsthataresmart.wiki/index.php?title=EcobeeSetZoneWithSchedule
 
-And many others...
+
+/****************************************************
+
+<b>c) ScheduleRoomTempControl</b>
+
+/****************************************************
+
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your Flair devices and any ST connected thermostats/sensors- coupled with smart vents (optional) for better temp settings control throughout your home". It can reproduce the Flair DeferToRooms' setpoint mode using or not your ST thermostat.
+
+
+For more details:
+
+http://thingsthataresmart.wiki/index.php?title=EcobeeSetZoneWithSchedule
+
