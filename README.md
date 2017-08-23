@@ -169,7 +169,8 @@ Amongst others:
 /****************************************************
 
 
-The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats- coupled with smart vents (optional) for better temp settings control throughout your home"
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats- coupled with smart vents (optional) for better temp settings control throughout your home". It can reproduce the eveness and eveness active Flair modes based on the thermostat's setpoints.
+
 
 For more details:
 
@@ -181,7 +182,8 @@ http://thingsthataresmart.wiki/index.php?title=ScheduleTstatZones
 
 /****************************************************
 
-The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee schedule(s)- coupled with smart vents (optional) for better temp settings control throughout your home"
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee schedule(s)- coupled with smart vents (optional) for better temp settings control throughout your home". It can reproduce the eveness and eveness active Flair modes based on the thermostat's climate settings.
+
 
 For more details:
 
