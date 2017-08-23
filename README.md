@@ -158,6 +158,9 @@ You only need to edit the following parameters
 
 # 8) Use some of the Zoned Heating/Cooling Smartapps available (optional)
 
+<b>
+http://www.ecomatiqhomes.com/store 
+</b>
 
 Amongst others:
 
@@ -169,7 +172,7 @@ Amongst others:
 /****************************************************
 
 
-The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats/sensors- - coupled with smart vents (optional) for better temp settings control throughout your home". It can reproduce the eveness and eveness active Flair modes based on the thermostat's setpoints.  The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside some scheduled zones.
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats/sensors- - coupled with smart vents (optional) for better temp settings control throughout your home". It can reproduce the eveness and eveness active Flair modes based on the thermostat's setpoints.  The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones.
 
 
 For more details:
@@ -182,7 +185,7 @@ http://thingsthataresmart.wiki/index.php?title=ScheduleTstatZones
 
 /****************************************************
 
-The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee thermostats and any ST connected sensors- coupled with smart vents (optional) for better temp settings control throughout your home". The smartapp can reproduce the Flair eveness and eveness active Flair setpoint modes based on the thermostat's climate settings.  The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside some scheduled zones.
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee thermostats (using comfort settings) and any ST connected sensors- coupled with smart vents (optional) for better temp settings control throughout your home". The smartapp can reproduce the Flair eveness and eveness active Flair setpoint modes based on the thermostat's climate settings.  The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones.
 
 
 For more details:
