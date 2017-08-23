@@ -154,3 +154,37 @@ You only need to edit the following parameters
 
     P.S. Don't enter any values for the appKey, privateKey and any serial Id numbers as the values are populated by the
     Service Manager by default during the authentification flow.
+
+
+# 8) Use some of the Smartapps available (optional)
+
+
+Amongst others:
+
+
+/****************************************************
+
+<b>a) ScheduleTstatZones</b>
+
+/****************************************************
+
+
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats- coupled with smart vents (optional) for better temp settings control throughout your home"
+
+For more details:
+
+http://thingsthataresmart.wiki/index.php?title=ScheduleTstatZones
+
+/****************************************************
+
+<b>b) ecobeeSetZoneWithSchedule</b>
+
+/****************************************************
+
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee schedule(s)- coupled with smart vents (optional) for better temp settings control throughout your home"
+
+For more details:
+
+http://thingsthataresmart.wiki/index.php?title=EcobeeSetZoneWithSchedule
+
+And many others...
