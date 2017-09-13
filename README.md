@@ -84,7 +84,7 @@ d) Copy and paste the code
 
 e) Hit the create button at the bottom
 
-f) Make sure that "enable OAuth" in Smartapp is active 
+f) <b>Make sure that "enable OAuth" in Smartapp is active </b>
 
 * Goto app settings (top right corner, click on it)
 * Click on Oauth (middle of the page), and enable OAuth in Smart app
