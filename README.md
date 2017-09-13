@@ -164,8 +164,6 @@ You only need to edit the following parameters
 http://www.ecomatiqhomes.com/store 
 </b>
 
-Amongst others:
-
 
 /****************************************************
 
