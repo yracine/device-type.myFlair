@@ -100,7 +100,7 @@ g) Go back to the code window, and hit the "publish/for me" button at the top ri
 <b>Click on the Smartapps link in the upper section of the following Marketspace screen (last icon in the bottom menu), and then Smartapps/MyApps (last item in the list).</b>
 
 
-# 4) Connect Smartthings to the Flair Portal
+# 4) Connect SmartThings to the Flair Portal
 
 You should already have an Flair username and password, if not go to https://my.flair.co/
 
