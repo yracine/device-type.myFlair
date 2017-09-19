@@ -174,7 +174,7 @@ http://www.ecomatiqhomes.com/store
 
 The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats/sensors- - coupled with smart vents (optional) for better temp settings control throughout your home". 
 
-The smartapp can reproduce the eveness and eveness active Flair modes based on the thermostat's setpoints.  
+The smartapp can reproduce the  Flair eveness and eveness active modes based on the thermostat's setpoints.  
 
 The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones.
 
@@ -191,7 +191,7 @@ http://thingsthataresmart.wiki/index.php?title=ScheduleTstatZones
 
 The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee thermostats (using comfort settings) and any ST connected sensors- coupled with smart vents (optional) for better temp settings control throughout your home". 
 
-The smartapp can reproduce the Flair eveness and eveness active Flair setpoint modes based on the thermostat's climate settings.  
+The smartapp can reproduce the Flair eveness and eveness active setpoint modes based on the thermostat's climate settings.  
 
 The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones.
 
