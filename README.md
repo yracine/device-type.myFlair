@@ -172,11 +172,11 @@ http://www.ecomatiqhomes.com/store
 /****************************************************
 
 
-The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats/sensors- - coupled with smart vents (optional) for better temp settings control throughout your home". 
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats/sensors- - coupled with smart vents (optional, (optional, can be Flair, Keen Home, EcoVent, EcoNet smart vents) for better temp settings control throughout your home". 
 
 The smartapp can reproduce the  Flair eveness and eveness active modes based on the thermostat's setpoints.  
 
-The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones.
+The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones (based on the Flair HVACUnit device).
 
 
 For more details:
@@ -189,11 +189,11 @@ http://thingsthataresmart.wiki/index.php?title=ScheduleTstatZones
 
 /****************************************************
 
-The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee thermostats (using comfort settings) and any ST connected sensors- coupled with smart vents (optional) for better temp settings control throughout your home". 
+The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee thermostats (using comfort settings) and any ST connected sensors- coupled with smart vents (optional, can be Flair, Keen Home, EcoVent, EcoNet smart vents) for better temp settings control throughout your home". 
 
 The smartapp can reproduce the Flair eveness and eveness active setpoint modes based on the thermostat's climate settings.  
 
-The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones.
+The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones (based on the Flair HVACUnit device).
 
 
 For more details:
