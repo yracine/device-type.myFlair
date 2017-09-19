@@ -28,11 +28,11 @@ PREREQUISITES
 - (a) Your Flair devices fully operational (and connected to wifi)
 - (b) Your Flair credentials (username/password)
 - (c) Developer access to SmartThings (http://graph.api.smartthings.com/)
--  <b>Location set for your ST account  </b>
+- (d) <b>Location set for your ST account  </b>
 
 Under the ST mobile app, click on the 3-horizontal lines- "hamburger"- menu in the upper left corner, and then the "gear'" icon to review your location and save it.
 
-- (d) <b>Determine your shard, please consult this thread: </b>
+- (e) <b>Determine your shard, please consult this thread: </b>
 
 
 https://community.smartthings.com/t/faq-how-to-find-out-what-shard-cloud-slice-ide-url-your-account-location-is-on/53923
