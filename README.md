@@ -22,8 +22,8 @@ P.S. Technical support packages are also available.
 Setup time: about 10-20 minutes depending on your ST skills.
 
 
-PREREQUISITES
-=====================
+== PREREQUISITES ==
+
 
 - Your Flair devices fully operational (and connected to wifi)
 - Your Flair credentials (username/password)
