@@ -176,7 +176,7 @@ The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST 
 
 The smartapp can reproduce the  Flair eveness and eveness active modes based on the thermostat's setpoints.  
 
-The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones (based on the Flair HVACUnit device).
+The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones (based on the Flair HVACUnit device, see http://thingsthataresmart.wiki/index.php?title=My_Flair_HVac_Unit).
 
 
 For more details:
@@ -193,7 +193,7 @@ The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ec
 
 The smartapp can reproduce the Flair eveness and eveness active setpoint modes based on the thermostat's climate settings.  
 
-The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones (based on the Flair HVACUnit device).
+The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones (based on the Flair HVACUnit device, see http://thingsthataresmart.wiki/index.php?title=My_Flair_HVac_Unit )
 
 
 For more details:
