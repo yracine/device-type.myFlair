@@ -162,10 +162,10 @@ You only need to edit the following parameters
 
 The following zoned Heating/cooling smartapps have many safeguards built-in to protect your HVAC.
 
-- They can check the static HVAC pressure using your Puck and Flair vent devices by comparing the room's pressure and the vent's pressure
-- They will check the vent's internal temperature to make sure it's not too hot or too cold
-- They will not close more than 50% of the smart vents inputted in the smartapp
-- You can define a minimum open threshold (by default 10%) to avoid closing the vent too tight.
+- The smartapps can check the static HVAC pressure using your Puck and Flair vent devices by comparing the room's pressure and the associated vent's pressure located in the same room.
+- The smartapps will check the vent's internal temperature to make sure it's not too hot or too cold
+- The smartapps will not close more than 50% of the smart vents inputted in the smartapp
+- You can define some minimum open threshold (by default 10% in zone, 20% outside the zone) to avoid closing the vents too tight.
 
 
 
