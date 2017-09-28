@@ -160,6 +160,15 @@ You only need to edit the following parameters
 
 # 8) Use some of the Zoned Heating/Cooling Smartapps available (optional)
 
+The following zoned Heating/cooling smartapps have many safeguards built-in to protect your HVAC.
+
+- They can check the static HVAC pressure using your Puck and Flair vent devices by comparing the room's pressure and the vent's pressure
+- They will check the vent's internal temperature to make sure it's not too hot or too cold
+- They will not close more than 50% of the smart vents inputted in the smartapp
+- You can define a minimum open threshold (by default 10%) to avoid closing the vent too tight.
+
+
+
 <b>
 http://www.ecomatiqhomes.com/store 
 </b>
@@ -171,6 +180,9 @@ http://www.ecomatiqhomes.com/store
 
 /****************************************************
 
+For more details:
+
+http://thingsthataresmart.wiki/index.php?title=ScheduleTstatZones
 
 The smartapp that enables Multi Zoned Heating/Cooling Solutions based on any ST connected thermostats/sensors- - coupled with smart vents (optional, can be any Flair, Keen Home, EcoVent, EcoNet smart vents) for better temp settings control throughout your home". 
 
@@ -179,15 +191,18 @@ The smartapp can reproduce the  Flair eveness and eveness active modes based on 
 The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones (based on the Flair HVACUnit device, see http://thingsthataresmart.wiki/index.php?title=My_Flair_HVac_Unit).
 
 
-For more details:
 
-http://thingsthataresmart.wiki/index.php?title=ScheduleTstatZones
 
 /****************************************************
 
 <b>b) ecobeeSetZoneWithSchedule</b>
 
 /****************************************************
+
+For more details:
+
+http://thingsthataresmart.wiki/index.php?title=EcobeeSetZoneWithSchedule
+
 
 The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your ecobee thermostats (using comfort settings) and any ST connected sensors- coupled with smart vents (optional, can be any Flair, Keen Home, EcoVent, EcoNet smart vents) for better temp settings control throughout your home". 
 
@@ -196,9 +211,6 @@ The smartapp can reproduce the Flair eveness and eveness active setpoint modes b
 The smartapp can also control multiple Minisplit/Windows unit and portable heaters/coolers inside your scheduled zones (based on the Flair HVACUnit device, see http://thingsthataresmart.wiki/index.php?title=My_Flair_HVac_Unit )
 
 
-For more details:
-
-http://thingsthataresmart.wiki/index.php?title=EcobeeSetZoneWithSchedule
 
 
 /****************************************************
@@ -207,11 +219,13 @@ http://thingsthataresmart.wiki/index.php?title=EcobeeSetZoneWithSchedule
 
 /****************************************************
 
+For more details:
+
+http://thingsthataresmart.wiki/index.php?title=ScheduleRoomTempControl
+
 The smartapp that enables Multi Zoned Heating/Cooling Solutions based on your Flair devices and any ST connected thermostats/sensors. 
 
 The smartapp can reproduce the Flair DeferToRooms' setpoint mode using or not your ST thermostat (optional).  You can also choose or not to set your thermostat's setpoints in the smartapp.
 
 
-For more details:
 
-http://thingsthataresmart.wiki/index.php?title=ScheduleRoomTempControl
