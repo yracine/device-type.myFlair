@@ -25,9 +25,13 @@ Setup time: about 10-20 minutes depending on your ST skills.
 PREREQUISITES
 ==============
 
-- (a) Your Flair devices fully operational (and connected to wifi)
-- (b) Your Flair credentials (username/password)
-- (c) Developer access to SmartThings (http://graph.api.smartthings.com/)
+- a) Puck gateway operational & connected to Flair via the internet.
+
+- b) Flair device (vent or hvac unit) operational & connected to Flair via the Puck gateway
+
+- c) Flair Setup completed: basic information about your home & rooms entered via the Flair Mobile App or the Flair portal- Developer access to SmartThings (http://graph.api.smartthings.com/)
+
+
 - (d) <b>Location set for your ST account  </b>
 
 Under the ST mobile app, click on the 3-horizontal lines- "hamburger"- menu in the upper left corner, and then the "gear'" icon to review your location and save it.
