@@ -61,7 +61,7 @@ INSTALLATION STEPS
 
 For each device (My Flair Vent, My Puck Device, My Flair Tstat, My Flair Hvac Unit),
 
-a) Go to https://graph.api.smartthings.com/ide/devices
+a) Go to https://graph.api.smartthings.com/ide/devices     (or whatever your shard is )
 
 b) Hit the "+New Device Handler" at the top right corner
 
@@ -78,7 +78,7 @@ f) Hit the "publish/for me" button at the top right corner (in the code window)
 
 # 2) Create a new smartapp (MyFlairServiceMgr)
 
-a) Go to https://graph.api.smartthings.com/ide/apps
+a) Go to https://graph.api.smartthings.com/ide/apps    (or whatever your shard is )
 
 b) Hit the "+New SmartApp" at the top right corner
 
@@ -123,7 +123,7 @@ and then 'Done' when finished.
 
 After about 1 minute, You should see your newly Flair devices instantiated under:
 
-a) https://graph.api.smartthings.com/device/list
+a) https://graph.api.smartthings.com/device/list     (or whatever your shard is )
 
 And also
 
