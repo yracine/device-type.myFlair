@@ -138,7 +138,7 @@ You may have to hit your Flair device's 'refresh' button several times as the sm
 # 7) (Optional) Set device's preferences 
 
 
-a) Go to https://graph.api.smartthings.com/device/list
+a) Go to https://graph.api.smartthings.com/device/list   (or whatever your shard is)
 
 b) Click on the Flair Devices that you just created
 
