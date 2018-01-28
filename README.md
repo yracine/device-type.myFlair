@@ -108,7 +108,8 @@ g) Go back to the code window, and hit the "publish/for me" button at the top ri
 
 You should already have an Flair username and password, if not go to https://my.flair.co/
 
-Go through the authentication process using MyFlairServiceMgr smartapp.
+Go through the authentication process using MyFlairServiceMgr smartapp.  To do so, please press on the "Flair Connect> Required" button in the middle of the screen.
+
 
 After being connected, click 'Next' and select your location, your Flair Devices -Puck(s), Vents(s), Tstat(s), and HVAC Unit(s)-
 that you want to control from Smartthings and, then press 'Next' for the 'Other Settings &Notification' page, 
