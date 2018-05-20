@@ -106,7 +106,7 @@ g) Go back to the code window, and hit the "publish/for me" button at the top ri
 
 # 4) Connect SmartThings to the Flair Portal
 
-You should already have an Flair username and password, if not go to https://my.flair.co/
+You should already have a Flair username and password, if not go to https://my.flair.co/
 
 Go through the authentication process using MyFlairServiceMgr smartapp.  To do so, please press on the "Flair Connect> Required" button in the middle of the screen.
 
