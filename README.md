@@ -62,6 +62,7 @@ INSTALLATION STEPS
 For each device (My Flair Vent, My Puck Device, My Flair Tstat, My Flair Hvac Unit),
 
 a) Go to https://graph.api.smartthings.com/ide/devices    (or whatever your shard is and click on My Device Handlers in the IDE's top menu)
+
 b) Hit the "+New Device Handler" at the top right corner
 
 c) Hit the "From Code" tab on the left corner
