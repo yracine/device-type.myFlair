@@ -99,6 +99,12 @@ f) <b>Make sure that "enable OAuth" in Smartapp is active </b>
 g) Go back to the code window, and hit the "publish/for me" button at the top right corner 
 
 
+If the instructions above are not clear enough, you can refer to the troubleshooting section below with some pictures:
+
+http://thingsthataresmart.wiki/index.php?title=MyFlairServiceMgr#Issue_.231:_I_don.27t_know_how_to_create_a_custom_smartapp
+
+
+
 # 3) Under the ST mobile app, execute MyFlairServiceMgr (MarketSpace>Smartapps>MyApps)
 
 <b>Click on the Smartapps link in the upper section of the following Marketspace screen (last icon in the bottom menu), and then Smartapps/MyApps (last item in the list).</b>
