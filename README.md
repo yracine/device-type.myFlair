@@ -105,7 +105,7 @@ http://thingsthataresmart.wiki/index.php?title=MyFlairServiceMgr#Issue_.231:_I_d
 
 
 
-# 3) Under the ST mobile app, execute MyFlairServiceMgr (MarketSpace>Smartapps>MyApps)
+# 3) Under the ST classic mobile app, execute MyFlairServiceMgr (MarketSpace>Smartapps>MyApps)
 
 <b>Click on the Smartapps link in the upper section of the following Marketspace screen (last icon in the bottom menu), and then Smartapps/MyApps (last item in the list).</b>
 
@@ -151,7 +151,7 @@ b) Click on the Flair Devices that you just created
 
 c) Click on Preferences (edit)
 
-N.B. You can also edit the preferences under Things/Your Flair Device/Edit Device using the ST mobile app.
+N.B. You can also edit the preferences under Things/Your Flair Device/Edit Device using the ST classic mobile app.
 
 You only need to edit the following parameters
 
