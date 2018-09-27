@@ -32,9 +32,9 @@ PREREQUISITES
 - c) Flair Setup completed: basic information about your home & rooms entered via the Flair Mobile App or the Flair portal- Developer access to SmartThings (http://graph.api.smartthings.com/)
 
 
-- (d) <b>Location set for your ST account  </b>
+- (d) <b>Location set for your ST account under the ST classic mobile app  </b>
 
-Under the ST mobile app, click on the 3-horizontal lines- "hamburger"- menu in the upper left corner, and then the "gear'" icon to review your location and save it.
+Under the ST classic mobile app, click on the 3-horizontal lines- "hamburger"- menu in the upper left corner, and then the "gear'" icon to review your location and save it.
 
 - (e) <b>Determine your shard, please consult this thread: </b>
 
