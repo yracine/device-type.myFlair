@@ -121,7 +121,7 @@ After being connected, click 'Next' and select your location, your Flair Devices
 that you want to control from Smartthings and, then press 'Next' for the 'Other Settings &Notification' page, 
 and then 'Done' when finished.
 
-<b>If you get a blank screen after pressing 'Next or you get the following error: " Error - bad state. Unable to complete page configuration", you'd need to enable oAuth as specified in step 2f) above. </b>
+If you get a blank screen after pressing 'Next or you get the following error: " Error - bad state' or 'Java.lang.NullPointerException: Cannot get property 'accessToken' on null object" in the IDE', <b>you'd need to enable oAuth as specified in step 2f) above.</b>
 
 
 
