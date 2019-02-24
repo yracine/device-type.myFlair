@@ -119,11 +119,19 @@ Go through the authentication process using MyFlairServiceMgr smartapp.  To do s
 
 After being connected, click 'Next' and select your location, your Flair Devices -Puck(s), Vents(s), Tstat(s), and HVAC Unit(s)-
 that you want to control from Smartthings and, then press 'Next' for the 'Other Settings &Notification' page, 
-and then 'Done' when finished.
+and then 'Done' or 'Save' when finished.
 
-If you get a blank screen after pressing 'Next or you get the following error: " Error - bad state' or 'Java.lang.NullPointerException: Cannot get property 'accessToken' on null object" in the IDE', <b>you'd need to enable oAuth as specified in step 2f) above.</b>
+*************************************************************************************************************************************
+N.B.
 
-At the end of the authorization flow, you may have to press "Save" several times if you have have the following error message: "Error processing your request - please try again" or "Unexcepted error".  This is due to some ST platform timeouts due to rate limiting.
+If you get a blank screen after pressing 'Next or you get the following error: "Error - bad state' or 'Java.lang.NullPointerException: Cannot get property 'accessToken' on null object" in the IDE', you'd need to enable oAuth as specified in step 2f) above.
+
+<b> At the end of the authorization flow,  if you have the following error message: "Unexpected error" even if you press several times, this probably means that you have not "saved & published" one of the Device Handler Types (MyPuckDevice,MyFlairVent,MyHvacUnit) under the right shard.  Refer to the prerequisites & step 1 for more details.
+ 
+Also, depending on the ST platform status, you may have to press "Save" several times if you have the following error message: "Error processing your request - please try again".  This is due to some ST platform timeouts due to rate limiting.</b> 
+ 
+*************************************************************************************************************************************
+
 
 
 # 5) Your device(s) should now be ready to process your commands
