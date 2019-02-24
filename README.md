@@ -123,7 +123,7 @@ and then 'Done' when finished.
 
 If you get a blank screen after pressing 'Next or you get the following error: " Error - bad state' or 'Java.lang.NullPointerException: Cannot get property 'accessToken' on null object" in the IDE', <b>you'd need to enable oAuth as specified in step 2f) above.</b>
 
-
+At the end of the authorization flow, you may have to press "Save" several times if you have have the following error message: "Error processing your request - please try again" or "Unexcepted error".  This is due to some ST platform timeouts due to rate limiting.
 
 
 # 5) Your device(s) should now be ready to process your commands
