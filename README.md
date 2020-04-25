@@ -35,11 +35,11 @@ PREREQUISITES
 
 However, after creating the devices under SmartThings, you can return to the new Samsung Connect app if you prefer as both apps (ST classic, STSC) can run in parallel without any issues.
 
-- (d) <b>Location set for your ST account under the ST classic mobile app  </b>
+- (e) <b>Location set for your ST account under the ST classic mobile app  </b>
 
 <b>Under the ST classic mobile app</b>, click on the 3-horizontal lines- "hamburger"- menu in the upper left corner, and then the "gear'" icon to review your location and save it.
 
-- (e) <b>Determine your shard, please consult this thread: </b>
+- (f) <b>Determine your shard, please consult this thread: </b>
 
 
 https://community.smartthings.com/t/faq-how-to-find-out-what-shard-cloud-slice-ide-url-your-account-location-is-on/53923
