@@ -31,6 +31,9 @@ PREREQUISITES
 
 - c) Flair Setup completed: basic information about your home & rooms entered via the Flair Mobile App or the Flair portal- Developer access to SmartThings (http://graph.api.smartthings.com/)
 
+- d) The installation must proceed with the SmartThings classic mobile app, so you have to download it first from your appStore. This is required as any custom DTHs can only be instantiated or created via the ST classic mobile app
+
+However, after creating the devices under SmartThings, you can return to the new Samsung Connect app if you prefer as both apps (ST classic, STSC) can run in parallel without any issues.
 
 - (d) <b>Location set for your ST account under the ST classic mobile app  </b>
 
