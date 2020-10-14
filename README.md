@@ -1,5 +1,7 @@
 # device-type.flairDevices Flair-SmartThings integration
 
+*** The devices can be created using the Samsung connect app ****
+
 My Flair Devices 
 
 Author:             Yves Racine
