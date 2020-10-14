@@ -31,15 +31,7 @@ PREREQUISITES
 
 - c) Flair Setup completed: basic information about your home & rooms entered via the Flair Mobile App or the Flair portal- Developer access to SmartThings (http://graph.api.smartthings.com/)
 
-- d) The installation must proceed with the SmartThings classic mobile app, so you have to download it first from your appStore. This is required as any custom DTHs can only be instantiated or created via the ST classic mobile app
-
-However, after creating the devices under SmartThings, you can return to the new Samsung Connect app if you prefer as both apps (ST classic, STSC) can run in parallel without any issues.
-
-- (e) <b>Location set for your ST account under the ST classic mobile app  </b>
-
-<b>Under the ST classic mobile app</b>, click on the 3-horizontal lines- "hamburger"- menu in the upper left corner, and then the "gear'" icon to review your location and save it.
-
-- (f) <b>Determine your shard, please consult this thread: </b>
+- (d) <b>Determine your shard, please consult this thread: </b>
 
 
 https://community.smartthings.com/t/faq-how-to-find-out-what-shard-cloud-slice-ide-url-your-account-location-is-on/53923
@@ -108,9 +100,10 @@ http://thingsthataresmart.wiki/index.php?title=MyFlairServiceMgr#Issue_.231:_I_d
 
 
 
-# 3) Under the ST classic mobile app, execute MyFlairServiceMgr (MarketSpace>Smartapps>MyApps)
 
-<b>Click on the Smartapps link in the upper section of the following Marketspace screen (last icon in the bottom menu), and then Smartapps/MyApps (last item in the list).</b>
+# 3) Under the new Samsung connect app, execute MyFlairServiceMgr (under + in the upper right corner/Smartapp)
+
+<b>Click on the Smartapp name (MyFlairServiceMgr) in the list of smartapps under the Custom section</b>
 
 
 # 4) Connect SmartThings to the Flair Portal
@@ -161,8 +154,6 @@ a) Go to https://graph.api.smartthings.com/device/list   (or whatever your shard
 b) Click on the Flair Devices that you just created
 
 c) Click on Preferences (edit)
-
-N.B. You can also edit the preferences under Things/Your Flair Device/Edit Device using the ST classic mobile app.
 
 You only need to edit the following parameters
 
