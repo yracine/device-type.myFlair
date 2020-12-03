@@ -144,7 +144,7 @@ a) Go to https://graph.api.smartthings.com/device/list   (or whatever your shard
 
 a) Click on the flair device(s) that you just created
 
-http://192.168.xx.xx/device/edit/<device number>  (Device number can vary from one location to the next)
+http://192.168.xx.xx/device/edit/"device number" (Device number can vary from one location to the next)
 
 b) Edit the preferences in the middle section of the screen) 
 
