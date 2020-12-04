@@ -101,18 +101,6 @@ http://thingsthataresmart.wiki/index.php?title=MyFlairServiceMgr#Issue_.231:_I_d
 
 
 
-# 3) Under the new Samsung connect app, execute MyFlairServiceMgr (under + in the upper right corner/Smartapp)
-
-<b>Click on the Smartapp name (MyFlairServiceMgr) in the list of smartapps under the Custom section</b>
-
-
-# 4) Connect Hubitat to the Flair APIs
-
-You should already have a Flair username and password, if not go to https://my.flair.co/
-
-Go through the authentication process using MyFlairServiceMgr smartapp.  To do so, please press on the "Flair Connect> Required" button in the middle of the screen.
-
-
 After being connected, click 'Next' and select your location, your Flair Devices -Puck(s), Vents(s), Tstat(s), and HVAC Unit(s)-
 that you want to control from Smartthings and, then press 'Next' for the 'Other Settings &Notification' page, 
 and then 'Done' or 'Save' when finished.
