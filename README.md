@@ -11,11 +11,19 @@ linkedIn profile:   www.linkedin.com/in/yracine
 Date:               2017-04-25
 
 
-You can now download the code at 
+For SmartTHings users, you can now download the code at 
 
 <b>
 http://www.ecomatiqhomes.com/store 
 </b>
+
+For Hubitat users, you can now download the code at 
+
+<b>
+http://www.ecomatiqhomes.com/hubitatstore 
+</b>
+
+
 
 P.S. Technical support packages are also available.
 **************************************************************************************************
