@@ -10,7 +10,7 @@ linkedIn profile:   www.linkedin.com/in/yracine
 You can now download the code at 
 
 <b>
-http://www.ecomatiqhomes.com/store 
+http://www.ecomatiqhomes.com/hubitatstore 
 </b>
 
 P.S. Technical support packages are also available.
