@@ -87,7 +87,7 @@ N.B. If you have any errors:
 
 If you get a blank screen after pressing 'Next or you get the following error: "'Java.lang.NullPointerException: Cannot execute null+1"', you'd need to enable oAuth as specified in step 2d) above.
 
-<b> At the end of the authorization flow,  if you have the following error message: "Unexpected error" even if you press several times, this probably means that you have not "saved" one of the Device Handler Types (MyNextTstatV2,MyNextAlarmV2,MyNextSensorV2) under the right shard.  Refer to the prerequisites & step 1 for more details.
+<b> At the end of the authorization flow,  if you have the following error message: "Unexpected error" even if you press several times, this probably means that you have not "saved" one of the Device Handler Types (My Flair Vent, My Puck Device, My Flair Tstat, My Flair Hvac Unit) in the IDE.  Refer to the prerequisites & step 1 for more details.
   
 *************************************************************************************************************************************
 
