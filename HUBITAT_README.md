@@ -39,9 +39,6 @@ INSTALLATION STEPS
 
 For each device (My Flair Vent, My Puck Device, My Flair Tstat, My Flair Hvac Unit),
 
-
-For each device (My NextTstatV2, My NextAlarmV2, My NextSensorV2),
-
 a) Create a new device driver 
 
 go to http://192.168.xx.xx/driver/list (insert your own hub's IP address)
