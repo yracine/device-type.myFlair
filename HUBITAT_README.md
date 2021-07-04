@@ -81,6 +81,10 @@ a) Click on "Add User app" in the right corner of the window
 http://192.168.xx.xx/logs (insert your own hub's IP address)
     
 
+After being connected, click 'Next' and select your location, your Flair Devices -Puck(s), Vents(s), Tstat(s), and HVAC Unit(s)-
+that you want to control from Smartthings and, then press 'Next' for the 'Other Settings &Notification' page, 
+and then 'Done' or 'Save' when finished.
+
     
 *************************************************************************************************************************************
 N.B. If you have any errors:
@@ -90,27 +94,6 @@ If you get a blank screen after pressing 'Next or you get the following error: "
 <b> At the end of the authorization flow,  if you have the following error message: "Unexpected error" even if you press several times, this probably means that you have not "saved" one of the Device Handler Types (My Flair Vent, My Puck Device, My Flair Tstat, My Flair Hvac Unit) in the IDE.  Refer to the prerequisites & step 1 for more details.
   
 *************************************************************************************************************************************
-
-
-If the instructions above are not clear enough, you can refer to the troubleshooting section below with some pictures:
-
-http://thingsthataresmart.wiki/index.php?title=MyFlairServiceMgr#Issue_.231:_I_don.27t_know_how_to_create_a_custom_smartapp
-
-
-
-After being connected, click 'Next' and select your location, your Flair Devices -Puck(s), Vents(s), Tstat(s), and HVAC Unit(s)-
-that you want to control from Smartthings and, then press 'Next' for the 'Other Settings &Notification' page, 
-and then 'Done' or 'Save' when finished.
-
-*************************************************************************************************************************************
-N.B. If you have any errors:
-
-If you get a blank screen after pressing 'Next or you get the following error: "Error -'Java.lang.NullPointerException: Cannot get property 'accessToken' on null object" in the IDE', you'd need to enable oAuth as specified in step 2f) above.
-
-
- 
-*************************************************************************************************************************************
-
 
 
 # 5) Your device(s) should now be ready to process your commands
